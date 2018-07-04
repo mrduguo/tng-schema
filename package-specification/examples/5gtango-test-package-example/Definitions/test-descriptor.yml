@@ -30,7 +30,5 @@ test_execution:
       tag_id: tag_002
     - test_tag: basic_test_suite
       tag_id: tag_003
-    - test_tag: weekly_run
-      tag_id: tag_004
     - test_tag: ns_under_test
       tag_id: eu.sonata-nfv.service-descriptor:sonata-vtc-only:0.1

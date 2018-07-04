@@ -13,7 +13,7 @@ logo: "Icons/upb_logo.png"                           # (optional) path to logo f
 package_content:
   - source: "Definitions/test-descriptor.yml"
     algorithm: "SHA-256"
-    hash: "e78a1127740b8c59534e1e7fd370334b12bf39ca9cf9f5c0fb2238dcf51ee148"
+    hash: "ac6beee5d0f7dfd6041fb4bd7610b0ef4eca193e60cb1e949ff18fdb4b5bc989"
     content-type: "application/vnd.5gtango.tstd"
   - source: "Icons/upb_logo.png"
     algorithm: "SHA-256"
